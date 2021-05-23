@@ -6,7 +6,7 @@ Avant de commencer à jouer:
  
 Pendant la partie:
 
-Les touches directionnelles permettent de déplacer le serpent respectivement à gauche, à droite, en bas et en haut
+Les touches directionnelles permettent de déplacer le serpent respectivement à gauche, à droite, en bas et en haut.
 Dès que le serpent passe sur une pomme, il la mange. La pomme mangée disparaît donc, une autre apparaît aléatoirement sur le canvas et le corps du serpent grandit.
  
 La partie s'arrête lorsque:
